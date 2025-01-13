@@ -26,30 +26,29 @@ To run the app on your local machine, you need Python , installed on your comput
 
 3. Then enter the corresponding directory:
 
-cd WeatherDashboard
+   cd WeatherDashboard
     
 4. Install all the requirements using pip:
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 5.	Run server:
-python manage.py runserver
+    python manage.py runserver
 
 6. open  http://localhost:8000/
     Enter a city name in search bar and press Enter.
     View the current Weather.
 
-# Tools
-## Front-end Part
-* HTML
-* CSS
-## Back-end
-* Django
+Tools
+    Frontend
+        * HTML
+        * CSS
+    Backend
+        *Django
 
 Tool Used on this project 
-* Visual Studio Code
+    * Visual Studio Code
 
 Future Improvements
-
 1. Changes In Design
 2. Add a current location locaton feature
 3. Change in error handling for invalid cities
