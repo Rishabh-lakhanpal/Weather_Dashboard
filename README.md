@@ -46,3 +46,4 @@ Future Improvements
 
 1. Changes In Design
 2. Add a current location locaton feature
+3. Change in error handling for invalid cities
