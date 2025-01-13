@@ -6,8 +6,8 @@ url = 'https://api.openweathermap.org/data/2.5/weather'
 Access current weather data for any location on Earth!
 
 ## Requirements
-1.  Python 3+
-2.  Django 3+
+1.  Python
+2.  Django
 
 ## Setup, Installation and Run
 
