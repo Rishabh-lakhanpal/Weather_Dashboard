@@ -1,7 +1,9 @@
 Weathercast Using Python and Django 
 Weather-Forecast app is what the title says it is. It's a quick, simple weather app. The features include the basics, including forecasts, current temperature, pressure, humidity etc.
 
-Intergrates with a free weatherAPI (OpenWeaterMap's)
+Intergrates with a free weatherAPI (OpenWeaterMap's) 
+url = 'https://api.openweathermap.org/data/2.5/weather'
+Access current weather data for any location on Earth!
 
 ## Requirements
 1.  Python 3+
@@ -40,4 +42,7 @@ python manage.py runserver
 Tool Used on this project 
 * Visual Studio Code
 
+Future Improvements
 
+1. Changes In Design
+2. Add a current location locaton feature
